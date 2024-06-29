@@ -13,6 +13,7 @@ class Person:
     def return_count(self):
         return (Person.count)
 jadi=Person('jadi',40)
+mahmoud=Person('mahmoud',31)
 jadi.get_name()
 jadi.get_info()
 jadi.get_age()
